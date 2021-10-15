@@ -1,2 +1,2 @@
 # Python Projects
- This is a folder of Python Projects that I have worked on. 
+Python-Projects consists of different socket-interface programs I created using Python 
